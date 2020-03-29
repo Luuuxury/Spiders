@@ -30,23 +30,23 @@ def get_date_list(start_date):
 
 
 cities_data = [
-    {"dcity": "SJW", "acity": "XMN", "dcityname": "石家庄", "acityname": "厦门", "date": "{}", "dcityid": 428, "token": "b2d909c0567e3327f371a22a241d6423"},
-    {"dcity": "BJS", "acity": "XMN", "dcityname": "北京", "acityname": "厦门", "date": "{}", "dcityid": 1, "token": "aa7f5c829fcbdef594bbe797c45fa071"},
-    {"dcity": "DLC", "acity": "XMN", "dcityname": "大连", "acityname": "厦门", "date": "{}", "dcityid": 6, "token": "f92a5202bc062161cd461898a81cc43e"},
-    {"dcity": "CTU", "acity": "XMN", "dcityname": "成都", "acityname": "厦门", "date": "{}", "dcityid": 28, "token": "788dcce2c244858bfcf81d3484243bcd"},
-    {"dcity": "SIA", "acity": "XMN", "dcityname": "西安", "acityname": "厦门", "date": "{}", "dcityid": 10, "token": "e1f5849e1aad88a7b9ab12530a0a0921"},
-    {"dcity": "CKG", "acity": "XMN", "dcityname": "重庆", "acityname": "厦门", "date": "{}", "dcityid": 4, "token": "8c5b4af9edbbe4da52e2a2ceefbed1df"},
-    {"dcity": "TAO", "acity": "XMN", "dcityname": "青岛", "acityname": "厦门", "date": "{}", "dcityid": 7, "token": "b3386e6b57fb4dcdceb135ba711ec03a"},
-    {"dcity": "NKG", "acity": "XMN", "dcityname": "南京", "acityname": "厦门", "date": "{}", "dcityid": 12, "token": "67b9ba22590b5558696cb56acdf5f963"},
-    {"dcity": "CSX", "acity": "XMN", "dcityname": "长沙", "acityname": "厦门", "date": "{}", "dcityid": 206, "token": "9747e71b8eb99cbe30ed8d1992a229c5"},
-    {"dcity": "KMG", "acity": "XMN", "dcityname": "昆明", "acityname": "厦门", "date": "{}", "dcityid": 34, "token": "57763bd879e346496d1980d0a09cf3e1"},
-    {"dcity": "TSN", "acity": "XMN", "dcityname": "天津", "acityname": "厦门", "date": "{}", "dcityid": 3, "token": "1da1b7fd1e67b73344b427c4f1725e7f"},
-    {"dcity": "CGO", "acity": "XMN", "dcityname": "郑州", "acityname": "厦门", "date": "{}", "dcityid": 559, "token": "00b7d348881c750a3c40dc48975e8ade"},
-    {"dcity": "TNA", "acity": "XMN", "dcityname": "济南", "acityname": "厦门", "date": "{}", "dcityid": 144, "token": "eb6685d9b7564f27b2261d1e6f062a03"},
-    {"dcity": "SHE", "acity": "XMN", "dcityname": "沈阳", "acityname": "厦门", "date": "{}", "dcityid": 451,"token": "c59941ab1271f5f9e6aee3784ea7d215"},
-    {"dcity": "URC", "acity": "XMN", "dcityname": "乌鲁木齐", "acityname": "厦门", "date": "{}", "dcityid": 39,"token": "36427d8c38639a44a490d108f96b2dae"},
-    {"dcity": "HRB", "acity": "XMN", "dcityname": "哈尔滨", "acityname": "厦门", "date": "{}", "dcityid": 5, "token": "e048188e0dc27a8c2dfc1b0c25536782"},
-    {"dcity": "HET", "acity": "XMN", "dcityname": "呼和浩特", "acityname": "厦门", "date": "{}", "dcityid": 103, "token": "48e57bfbcd9d3ae954d73422b8aa2d8c"}
+    {"dcity": "SJW", "acity": "XMN", "dcityname": "石家庄", "acityname": "厦门", "date": "{}", "dcityid": 428, "token": "yourToken!"},
+    {"dcity": "BJS", "acity": "XMN", "dcityname": "北京", "acityname": "厦门", "date": "{}", "dcityid": 1, "token": "yourToken!"},
+    {"dcity": "DLC", "acity": "XMN", "dcityname": "大连", "acityname": "厦门", "date": "{}", "dcityid": 6, "token": "yourToken!"},
+    {"dcity": "CTU", "acity": "XMN", "dcityname": "成都", "acityname": "厦门", "date": "{}", "dcityid": 28, "token": "yourToken!"},
+    {"dcity": "SIA", "acity": "XMN", "dcityname": "西安", "acityname": "厦门", "date": "{}", "dcityid": 10, "token": "yourToken!"},
+    {"dcity": "CKG", "acity": "XMN", "dcityname": "重庆", "acityname": "厦门", "date": "{}", "dcityid": 4, "token": "yourToken!"},
+    {"dcity": "TAO", "acity": "XMN", "dcityname": "青岛", "acityname": "厦门", "date": "{}", "dcityid": 7, "token": "yourToken!"},
+    {"dcity": "NKG", "acity": "XMN", "dcityname": "南京", "acityname": "厦门", "date": "{}", "dcityid": 12, "token": "yourToken!"},
+    {"dcity": "CSX", "acity": "XMN", "dcityname": "长沙", "acityname": "厦门", "date": "{}", "dcityid": 206, "token": "yourToken!"},
+    {"dcity": "KMG", "acity": "XMN", "dcityname": "昆明", "acityname": "厦门", "date": "{}", "dcityid": 34, "token": "yourToken!"},
+    {"dcity": "TSN", "acity": "XMN", "dcityname": "天津", "acityname": "厦门", "date": "{}", "dcityid": 3, "token": "yourToken!"},
+    {"dcity": "CGO", "acity": "XMN", "dcityname": "郑州", "acityname": "厦门", "date": "{}", "dcityid": 559, "token": "yourToken!"},
+    {"dcity": "TNA", "acity": "XMN", "dcityname": "济南", "acityname": "厦门", "date": "{}", "dcityid": 144, "token": "yourToken!"},
+    {"dcity": "SHE", "acity": "XMN", "dcityname": "沈阳", "acityname": "厦门", "date": "{}", "dcityid": 451,"token": "yourToken!"},
+    {"dcity": "URC", "acity": "XMN", "dcityname": "乌鲁木齐", "acityname": "厦门", "date": "{}", "dcityid": 39,"token": "yourToken!"},
+    {"dcity": "HRB", "acity": "XMN", "dcityname": "哈尔滨", "acityname": "厦门", "date": "{}", "dcityid": 5, "token": "yourToken!"},
+    {"dcity": "HET", "acity": "XMN", "dcityname": "呼和浩特", "acityname": "厦门", "date": "{}", "dcityid": 103, "token": "yourToken!"}
     ]
 
 
